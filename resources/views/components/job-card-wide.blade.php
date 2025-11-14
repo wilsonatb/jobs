@@ -1,4 +1,4 @@
-<div class="p-4 bg-white/5 rounded-xl flex gap-6">
+<x-panel class="flex space-x-6">
     <div>
         <x-employer-logo />
     </div>
@@ -19,4 +19,4 @@
             <x-tag size='large'>DeVops</x-tag>
         </div>
     </div>
-</div>
+</x-panel>
